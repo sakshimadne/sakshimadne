@@ -49,6 +49,14 @@ A website that illustrates the evolution of UI/UX design from the 1990s to the 2
 
 ---
 
+🎬 Movies App – Introduction
+🔗 Deployed Link: https://movies-app-frontend-9cvq.vercel.app/
+Movies App is a full-stack web application that allows users to manage a collection of movies through a clean and interactive interface. Users can view, search, filter, add, edit, and delete movies in real time.
+
+The application is built using the MERN stack (MongoDB, Express, React, Node.js). The frontend provides a responsive user experience with dynamic filtering and route-based modal editing, while the backend exposes RESTful APIs following an MVC architecture for structured and scalable data management.
+
+---
+
 ### 📊 Algorithm Visualizer  
 🔗 Deployed Link:  
 https://github.com/PoojaSingh31github/Algorithm-Visualizer/blob/master/al-orbiters-005.vercel.app  
@@ -99,4 +107,5 @@ A comprehensive finance management tool designed to help organizations efficient
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
+
 
