@@ -85,17 +85,7 @@ A comprehensive finance management tool designed to help organizations efficient
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-madne&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-madne&theme=radical" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
@@ -107,5 +97,6 @@ A comprehensive finance management tool designed to help organizations efficient
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
+
 
 
